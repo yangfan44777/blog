@@ -1,15 +1,13 @@
-# Thinkspace v1
+# Jekyll Resume Theme
 
-Just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+A mega simple Jekyll theme for displaying a resume/cv online.
 
-[**Demo**](http://heiswayi.github.io/thinkspace/)
+The theme follows the default Jekyll build as closely as possible to avoid any dependency issues.
 
-[**Here is how to download/use this theme**](http://heiswayi.github.io/thinkspace/2016/how-to-download-or-use-this-theme/)
+To customise you just need to fill out the `_config.yml` and the jobs and education `.yml` files in the `_data` directory with your own details.
 
-### Screenshot
+You can see a demo of the theme at: [mattcouchman.co.uk/jekyll-resume](http://mattcouchman.co.uk/jekyll-resume)
 
-![Screenshot](http://i.imgur.com/WHcnbYF.png)
+Feel free to tear apart and rebuild as you wish.
 
-### License
-
-[MIT](LICENSE.md)
+![Screenshot of resume theme](https://github.com/mattcouchman/jekyll-resume/raw/master/img/screen.png)
